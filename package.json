@@ -10,5 +10,8 @@
   "dependencies": {
     "inquirer": "^8.2.4"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
