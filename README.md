@@ -6,6 +6,8 @@ This is a simple command-line app that generates a markdown file with the profes
 
 The lack of time to create a professional README file was the main motivator to create this app. Developers spend too much time writing code and debugging, so it is expected that creating and formating a README file takes precious time.
 
+An example of a generated readme can be found at this repo under the name of README_generated.md
+
 ### User story
 
 AS A developer
